@@ -1,0 +1,1042 @@
+[{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6c7"
+  },
+  "id": 4,
+  "nombreSuperheroe": "Black Widow",
+  "nombreReal": "Natasha Romanoff",
+  "nombreSociedad": "Vigilante",
+  "edad": 33,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Ninguna conocida",
+  "poder": [
+    "Maestría en combate",
+    "Espionaje"
+  ],
+  "habilidadEspecial": "Entrenamiento de élite",
+  "aliado": [
+    "Hawkeye"
+  ],
+  "enemigo": [
+    "Taskmaster"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6c8"
+  },
+  "id": 5,
+  "nombreSuperheroe": "Hulk",
+  "nombreReal": "Bruce Banner",
+  "nombreSociedad": "Vigilante",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Control emocional",
+  "poder": [
+    "Fuerza bruta",
+    "Resistencia"
+  ],
+  "habilidadEspecial": "Regeneración rápida",
+  "aliado": [
+    "Ironman"
+  ],
+  "enemigo": [
+    "Loki"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6cc"
+  },
+  "id": 4,
+  "nombreSuperheroe": "Black Widow",
+  "nombreReal": "Natasha Romanoff",
+  "nombreSociedad": "Vigilante",
+  "edad": 33,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Ninguna conocida",
+  "poder": [
+    "Maestría en combate",
+    "Espionaje"
+  ],
+  "habilidadEspecial": "Entrenamiento de élite",
+  "aliado": "Entrenamiento de élite",
+  "enemigo": [
+    "Hawkeye"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6cf"
+  },
+  "id": 7,
+  "nombreSuperheroe": "Doctor Strange",
+  "nombreReal": "Stephen Strange",
+  "nombreSociedad": "Hechicero Supremo",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Desconocida",
+  "poder": [
+    "Magia",
+    "Teletransportación"
+  ],
+  "habilidadEspecial": "Hechizos poderosos",
+  "aliado": "Hechizos poderosos",
+  "enemigo": [
+    "Wong"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6d0"
+  },
+  "id": 8,
+  "nombreSuperheroe": "Wonder Woman",
+  "nombreReal": "Diana Prince",
+  "nombreSociedad": "Liga de la Justicia",
+  "edad": 3000,
+  "planetaOrigen": "Themyscira",
+  "debilidad": "Pérdida del lazo de la verdad",
+  "poder": [
+    "Fuerza sobrehumana",
+    "Velocidad",
+    "Vuelo",
+    "Resistencia"
+  ],
+  "habilidadEspecial": "Lazo de la verdad",
+  "aliado": "Lazo de la verdad",
+  "enemigo": [
+    "Superman",
+    "Batman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6d7"
+  },
+  "id": 5,
+  "nombreSuperheroe": "Hulk",
+  "nombreReal": "Bruce Banner",
+  "nombreSociedad": "Vigilante",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Control emocional",
+  "poder": [
+    "Fuerza bruta",
+    "Resistencia"
+  ],
+  "habilidadEspecial": "Regeneración rápida",
+  "aliado": "Regeneración rápida",
+  "enemigo": [
+    "Ironman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6d8"
+  },
+  "id": 6,
+  "nombreSuperheroe": "Captain America",
+  "nombreReal": "Steve Rogers",
+  "nombreSociedad": "Vigilante",
+  "edad": 103,
+  "planetaOrigen": "Tierra",
+  "debilidad": "No tiene habilidades sobrehumanas",
+  "poder": [
+    "Fuerza aumentada",
+    "Agilidad"
+  ],
+  "habilidadEspecial": "Escudo indestructible",
+  "aliado": "Escudo indestructible",
+  "enemigo": [
+    "Bucky Barnes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6cb"
+  },
+  "id": 8,
+  "nombreSuperheroe": "Wonder Woman",
+  "nombreReal": "Diana Prince",
+  "nombreSociedad": "Liga de la Justicia",
+  "edad": 3000,
+  "planetaOrigen": "Themyscira",
+  "debilidad": "Pérdida del lazo de la verdad",
+  "poder": [
+    "Fuerza sobrehumana",
+    "Velocidad",
+    "Vuelo",
+    "Resistencia"
+  ],
+  "habilidadEspecial": "Lazo de la verdad",
+  "aliado": [
+    "Superman",
+    "Batman"
+  ],
+  "enemigo": [
+    "Ares",
+    "Cheetah"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6d5"
+  },
+  "id": 8,
+  "nombreSuperheroe": "Wonder Woman",
+  "nombreReal": "Diana Prince",
+  "nombreSociedad": "Liga de la Justicia",
+  "edad": 3000,
+  "planetaOrigen": "Themyscira",
+  "debilidad": "Pérdida del lazo de la verdad",
+  "poder": [
+    "Fuerza sobrehumana",
+    "Velocidad",
+    "Vuelo",
+    "Resistencia"
+  ],
+  "habilidadEspecial": "Lazo de la verdad",
+  "aliado": "Lazo de la verdad",
+  "enemigo": [
+    "Superman",
+    "Batman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6d9"
+  },
+  "id": 7,
+  "nombreSuperheroe": "Doctor Strange",
+  "nombreReal": "Stephen Strange",
+  "nombreSociedad": "Hechicero Supremo",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Desconocida",
+  "poder": [
+    "Magia",
+    "Teletransportación"
+  ],
+  "habilidadEspecial": "Hechizos poderosos",
+  "aliado": "Hechizos poderosos",
+  "enemigo": [
+    "Wong"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6da"
+  },
+  "id": 8,
+  "nombreSuperheroe": "Wonder Woman",
+  "nombreReal": "Diana Prince",
+  "nombreSociedad": "Liga de la Justicia",
+  "edad": 3000,
+  "planetaOrigen": "Themyscira",
+  "debilidad": "Pérdida del lazo de la verdad",
+  "poder": [
+    "Fuerza sobrehumana",
+    "Velocidad",
+    "Vuelo",
+    "Resistencia"
+  ],
+  "habilidadEspecial": "Lazo de la verdad",
+  "aliado": "Lazo de la verdad",
+  "enemigo": [
+    "Superman",
+    "Batman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6c5"
+  },
+  "id": 2,
+  "nombreSuperheroe": "Ironman",
+  "nombreReal": "Tony Stark",
+  "nombreSociedad": "Vigilante",
+  "edad": 45,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Dependiente de la tecnología",
+  "poder": [
+    "Armadura blindada",
+    "Volar",
+    "Láseres"
+  ],
+  "habilidadEspecial": "Ingeniería avanzada",
+  "aliado": [
+    "Spiderman"
+  ],
+  "enemigo": [
+    "Mandarín"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6c6"
+  },
+  "id": 3,
+  "nombreSuperheroe": "Thor",
+  "nombreReal": "Thor Odinson",
+  "nombreSociedad": "Dios del Trueno",
+  "edad": 1000,
+  "planetaOrigen": "Asgard",
+  "debilidad": "Destruir su martillo",
+  "poder": [
+    "Controlar el trueno",
+    "Fuerza sobrehumana",
+    "Inmortal"
+  ],
+  "habilidadEspecial": "Invocación de tormentas",
+  "aliado": [
+    "Loki"
+  ],
+  "enemigo": [
+    "Hela"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6c9"
+  },
+  "id": 6,
+  "nombreSuperheroe": "Captain America",
+  "nombreReal": "Steve Rogers",
+  "nombreSociedad": "Vigilante",
+  "edad": 103,
+  "planetaOrigen": "Tierra",
+  "debilidad": "No tiene habilidades sobrehumanas",
+  "poder": [
+    "Fuerza aumentada",
+    "Agilidad"
+  ],
+  "habilidadEspecial": "Escudo indestructible",
+  "aliado": [
+    "Bucky Barnes"
+  ],
+  "enemigo": [
+    "Red Skull"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6ca"
+  },
+  "id": 7,
+  "nombreSuperheroe": "Doctor Strange",
+  "nombreReal": "Stephen Strange",
+  "nombreSociedad": "Hechicero Supremo",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Desconocida",
+  "poder": [
+    "Magia",
+    "Teletransportación"
+  ],
+  "habilidadEspecial": "Hechizos poderosos",
+  "aliado": [
+    "Wong"
+  ],
+  "enemigo": [
+    "Dormammu"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6cd"
+  },
+  "id": 5,
+  "nombreSuperheroe": "Hulk",
+  "nombreReal": "Bruce Banner",
+  "nombreSociedad": "Vigilante",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Control emocional",
+  "poder": [
+    "Fuerza bruta",
+    "Resistencia"
+  ],
+  "habilidadEspecial": "Regeneración rápida",
+  "aliado": "Regeneración rápida",
+  "enemigo": [
+    "Ironman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6ce"
+  },
+  "id": 6,
+  "nombreSuperheroe": "Captain America",
+  "nombreReal": "Steve Rogers",
+  "nombreSociedad": "Vigilante",
+  "edad": 103,
+  "planetaOrigen": "Tierra",
+  "debilidad": "No tiene habilidades sobrehumanas",
+  "poder": [
+    "Fuerza aumentada",
+    "Agilidad"
+  ],
+  "habilidadEspecial": "Escudo indestructible",
+  "aliado": "Escudo indestructible",
+  "enemigo": [
+    "Bucky Barnes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6d2"
+  },
+  "id": 5,
+  "nombreSuperheroe": "Hulk",
+  "nombreReal": "Bruce Banner",
+  "nombreSociedad": "Vigilante",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Control emocional",
+  "poder": [
+    "Fuerza bruta",
+    "Resistencia"
+  ],
+  "habilidadEspecial": "Regeneración rápida",
+  "aliado": "Regeneración rápida",
+  "enemigo": [
+    "Ironman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6d3"
+  },
+  "id": 6,
+  "nombreSuperheroe": "Captain America",
+  "nombreReal": "Steve Rogers",
+  "nombreSociedad": "Vigilante",
+  "edad": 103,
+  "planetaOrigen": "Tierra",
+  "debilidad": "No tiene habilidades sobrehumanas",
+  "poder": [
+    "Fuerza aumentada",
+    "Agilidad"
+  ],
+  "habilidadEspecial": "Escudo indestructible",
+  "aliado": "Escudo indestructible",
+  "enemigo": [
+    "Bucky Barnes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6d1"
+  },
+  "id": 4,
+  "nombreSuperheroe": "Black Widow",
+  "nombreReal": "Natasha Romanoff",
+  "nombreSociedad": "Vigilante",
+  "edad": 33,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Ninguna conocida",
+  "poder": [
+    "Maestría en combate",
+    "Espionaje"
+  ],
+  "habilidadEspecial": "Entrenamiento de élite",
+  "aliado": "Entrenamiento de élite",
+  "enemigo": [
+    "Hawkeye"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6d4"
+  },
+  "id": 7,
+  "nombreSuperheroe": "Doctor Strange",
+  "nombreReal": "Stephen Strange",
+  "nombreSociedad": "Hechicero Supremo",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Desconocida",
+  "poder": [
+    "Magia",
+    "Teletransportación"
+  ],
+  "habilidadEspecial": "Hechizos poderosos",
+  "aliado": "Hechizos poderosos",
+  "enemigo": [
+    "Wong"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f002e8c63b3c19e52b6d6"
+  },
+  "id": 4,
+  "nombreSuperheroe": "Black Widow",
+  "nombreReal": "Natasha Romanoff",
+  "nombreSociedad": "Vigilante",
+  "edad": 33,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Ninguna conocida",
+  "poder": [
+    "Maestría en combate",
+    "Espionaje"
+  ],
+  "habilidadEspecial": "Entrenamiento de élite",
+  "aliado": "Entrenamiento de élite",
+  "enemigo": [
+    "Hawkeye"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6de"
+  },
+  "id": 4,
+  "nombreSuperheroe": "Black Widow",
+  "nombreReal": "Natasha Romanoff",
+  "nombreSociedad": "Vigilante",
+  "edad": 33,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Ninguna conocida",
+  "poder": [
+    "Maestría en combate",
+    "Espionaje"
+  ],
+  "habilidadEspecial": "Entrenamiento de élite",
+  "aliado": [
+    "Hawkeye"
+  ],
+  "enemigo": [
+    "Taskmaster"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6df"
+  },
+  "id": 5,
+  "nombreSuperheroe": "Hulk",
+  "nombreReal": "Bruce Banner",
+  "nombreSociedad": "Vigilante",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Control emocional",
+  "poder": [
+    "Fuerza bruta",
+    "Resistencia"
+  ],
+  "habilidadEspecial": "Regeneración rápida",
+  "aliado": [
+    "Ironman"
+  ],
+  "enemigo": [
+    "Loki"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6f0"
+  },
+  "id": 7,
+  "nombreSuperheroe": "Doctor Strange",
+  "nombreReal": "Stephen Strange",
+  "nombreSociedad": "Hechicero Supremo",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Desconocida",
+  "poder": [
+    "Magia",
+    "Teletransportación"
+  ],
+  "habilidadEspecial": "Hechizos poderosos",
+  "aliado": "Hechizos poderosos",
+  "enemigo": [
+    "Wong"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6dc"
+  },
+  "id": 2,
+  "nombreSuperheroe": "Ironman",
+  "nombreReal": "Tony Stark",
+  "nombreSociedad": "Vigilante",
+  "edad": 45,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Dependiente de la tecnología",
+  "poder": [
+    "Armadura blindada",
+    "Volar",
+    "Láseres"
+  ],
+  "habilidadEspecial": "Ingeniería avanzada",
+  "aliado": [
+    "Spiderman"
+  ],
+  "enemigo": [
+    "Mandarín"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6e2"
+  },
+  "id": 8,
+  "nombreSuperheroe": "Wonder Woman",
+  "nombreReal": "Diana Prince",
+  "nombreSociedad": "Liga de la Justicia",
+  "edad": 3000,
+  "planetaOrigen": "Themyscira",
+  "debilidad": "Pérdida del lazo de la verdad",
+  "poder": [
+    "Fuerza sobrehumana",
+    "Velocidad",
+    "Vuelo",
+    "Resistencia"
+  ],
+  "habilidadEspecial": "Lazo de la verdad",
+  "aliado": [
+    "Superman",
+    "Batman"
+  ],
+  "enemigo": [
+    "Ares",
+    "Cheetah"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6e6"
+  },
+  "id": 7,
+  "nombreSuperheroe": "Doctor Strange",
+  "nombreReal": "Stephen Strange",
+  "nombreSociedad": "Hechicero Supremo",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Desconocida",
+  "poder": [
+    "Magia",
+    "Teletransportación"
+  ],
+  "habilidadEspecial": "Hechizos poderosos",
+  "aliado": "Hechizos poderosos",
+  "enemigo": [
+    "Wong"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6e8"
+  },
+  "id": 4,
+  "nombreSuperheroe": "Black Widow",
+  "nombreReal": "Natasha Romanoff",
+  "nombreSociedad": "Vigilante",
+  "edad": 33,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Ninguna conocida",
+  "poder": [
+    "Maestría en combate",
+    "Espionaje"
+  ],
+  "habilidadEspecial": "Entrenamiento de élite",
+  "aliado": "Entrenamiento de élite",
+  "enemigo": [
+    "Hawkeye"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6eb"
+  },
+  "id": 7,
+  "nombreSuperheroe": "Doctor Strange",
+  "nombreReal": "Stephen Strange",
+  "nombreSociedad": "Hechicero Supremo",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Desconocida",
+  "poder": [
+    "Magia",
+    "Teletransportación"
+  ],
+  "habilidadEspecial": "Hechizos poderosos",
+  "aliado": "Hechizos poderosos",
+  "enemigo": [
+    "Wong"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6f1"
+  },
+  "id": 8,
+  "nombreSuperheroe": "Wonder Woman",
+  "nombreReal": "Diana Prince",
+  "nombreSociedad": "Liga de la Justicia",
+  "edad": 3000,
+  "planetaOrigen": "Themyscira",
+  "debilidad": "Pérdida del lazo de la verdad",
+  "poder": [
+    "Fuerza sobrehumana",
+    "Velocidad",
+    "Vuelo",
+    "Resistencia"
+  ],
+  "habilidadEspecial": "Lazo de la verdad",
+  "aliado": "Lazo de la verdad",
+  "enemigo": [
+    "Superman",
+    "Batman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6e4"
+  },
+  "id": 5,
+  "nombreSuperheroe": "Hulk",
+  "nombreReal": "Bruce Banner",
+  "nombreSociedad": "Vigilante",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Control emocional",
+  "poder": [
+    "Fuerza bruta",
+    "Resistencia"
+  ],
+  "habilidadEspecial": "Regeneración rápida",
+  "aliado": "Regeneración rápida",
+  "enemigo": [
+    "Ironman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6e9"
+  },
+  "id": 5,
+  "nombreSuperheroe": "Hulk",
+  "nombreReal": "Bruce Banner",
+  "nombreSociedad": "Vigilante",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Control emocional",
+  "poder": [
+    "Fuerza bruta",
+    "Resistencia"
+  ],
+  "habilidadEspecial": "Regeneración rápida",
+  "aliado": "Regeneración rápida",
+  "enemigo": [
+    "Ironman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6ea"
+  },
+  "id": 6,
+  "nombreSuperheroe": "Captain America",
+  "nombreReal": "Steve Rogers",
+  "nombreSociedad": "Vigilante",
+  "edad": 103,
+  "planetaOrigen": "Tierra",
+  "debilidad": "No tiene habilidades sobrehumanas",
+  "poder": [
+    "Fuerza aumentada",
+    "Agilidad"
+  ],
+  "habilidadEspecial": "Escudo indestructible",
+  "aliado": "Escudo indestructible",
+  "enemigo": [
+    "Bucky Barnes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6ed"
+  },
+  "id": 4,
+  "nombreSuperheroe": "Black Widow",
+  "nombreReal": "Natasha Romanoff",
+  "nombreSociedad": "Vigilante",
+  "edad": 33,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Ninguna conocida",
+  "poder": [
+    "Maestría en combate",
+    "Espionaje"
+  ],
+  "habilidadEspecial": "Entrenamiento de élite",
+  "aliado": "Entrenamiento de élite",
+  "enemigo": [
+    "Hawkeye"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6dd"
+  },
+  "id": 3,
+  "nombreSuperheroe": "Thor",
+  "nombreReal": "Thor Odinson",
+  "nombreSociedad": "Dios del Trueno",
+  "edad": 1000,
+  "planetaOrigen": "Asgard",
+  "debilidad": "Destruir su martillo",
+  "poder": [
+    "Controlar el trueno",
+    "Fuerza sobrehumana",
+    "Inmortal"
+  ],
+  "habilidadEspecial": "Invocación de tormentas",
+  "aliado": [
+    "Loki"
+  ],
+  "enemigo": [
+    "Hela"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6e0"
+  },
+  "id": 6,
+  "nombreSuperheroe": "Captain America",
+  "nombreReal": "Steve Rogers",
+  "nombreSociedad": "Vigilante",
+  "edad": 103,
+  "planetaOrigen": "Tierra",
+  "debilidad": "No tiene habilidades sobrehumanas",
+  "poder": [
+    "Fuerza aumentada",
+    "Agilidad"
+  ],
+  "habilidadEspecial": "Escudo indestructible",
+  "aliado": [
+    "Bucky Barnes"
+  ],
+  "enemigo": [
+    "Red Skull"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6e1"
+  },
+  "id": 7,
+  "nombreSuperheroe": "Doctor Strange",
+  "nombreReal": "Stephen Strange",
+  "nombreSociedad": "Hechicero Supremo",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Desconocida",
+  "poder": [
+    "Magia",
+    "Teletransportación"
+  ],
+  "habilidadEspecial": "Hechizos poderosos",
+  "aliado": [
+    "Wong"
+  ],
+  "enemigo": [
+    "Dormammu"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6e3"
+  },
+  "id": 4,
+  "nombreSuperheroe": "Black Widow",
+  "nombreReal": "Natasha Romanoff",
+  "nombreSociedad": "Vigilante",
+  "edad": 33,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Ninguna conocida",
+  "poder": [
+    "Maestría en combate",
+    "Espionaje"
+  ],
+  "habilidadEspecial": "Entrenamiento de élite",
+  "aliado": "Entrenamiento de élite",
+  "enemigo": [
+    "Hawkeye"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6e5"
+  },
+  "id": 6,
+  "nombreSuperheroe": "Captain America",
+  "nombreReal": "Steve Rogers",
+  "nombreSociedad": "Vigilante",
+  "edad": 103,
+  "planetaOrigen": "Tierra",
+  "debilidad": "No tiene habilidades sobrehumanas",
+  "poder": [
+    "Fuerza aumentada",
+    "Agilidad"
+  ],
+  "habilidadEspecial": "Escudo indestructible",
+  "aliado": "Escudo indestructible",
+  "enemigo": [
+    "Bucky Barnes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6e7"
+  },
+  "id": 8,
+  "nombreSuperheroe": "Wonder Woman",
+  "nombreReal": "Diana Prince",
+  "nombreSociedad": "Liga de la Justicia",
+  "edad": 3000,
+  "planetaOrigen": "Themyscira",
+  "debilidad": "Pérdida del lazo de la verdad",
+  "poder": [
+    "Fuerza sobrehumana",
+    "Velocidad",
+    "Vuelo",
+    "Resistencia"
+  ],
+  "habilidadEspecial": "Lazo de la verdad",
+  "aliado": "Lazo de la verdad",
+  "enemigo": [
+    "Superman",
+    "Batman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6ec"
+  },
+  "id": 8,
+  "nombreSuperheroe": "Wonder Woman",
+  "nombreReal": "Diana Prince",
+  "nombreSociedad": "Liga de la Justicia",
+  "edad": 3000,
+  "planetaOrigen": "Themyscira",
+  "debilidad": "Pérdida del lazo de la verdad",
+  "poder": [
+    "Fuerza sobrehumana",
+    "Velocidad",
+    "Vuelo",
+    "Resistencia"
+  ],
+  "habilidadEspecial": "Lazo de la verdad",
+  "aliado": "Lazo de la verdad",
+  "enemigo": [
+    "Superman",
+    "Batman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6ee"
+  },
+  "id": 5,
+  "nombreSuperheroe": "Hulk",
+  "nombreReal": "Bruce Banner",
+  "nombreSociedad": "Vigilante",
+  "edad": 40,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Control emocional",
+  "poder": [
+    "Fuerza bruta",
+    "Resistencia"
+  ],
+  "habilidadEspecial": "Regeneración rápida",
+  "aliado": "Regeneración rápida",
+  "enemigo": [
+    "Ironman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f014a8c63b3c19e52b6ef"
+  },
+  "id": 6,
+  "nombreSuperheroe": "Captain America",
+  "nombreReal": "Steve Rogers",
+  "nombreSociedad": "Vigilante",
+  "edad": 103,
+  "planetaOrigen": "Tierra",
+  "debilidad": "No tiene habilidades sobrehumanas",
+  "poder": [
+    "Fuerza aumentada",
+    "Agilidad"
+  ],
+  "habilidadEspecial": "Escudo indestructible",
+  "aliado": "Escudo indestructible",
+  "enemigo": [
+    "Bucky Barnes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683f09148c63b3c19e52b6f2"
+  }
+},
+{
+  "_id": {
+    "$oid": "683f2e0c8c63b3c19e52b6f3"
+  }
+},
+{
+  "_id": {
+    "$oid": "683f3795fd70e4c68618053a"
+  }
+},
+{
+  "_id": {
+    "$oid": "683f3e777444bdbdaa00a341"
+  }
+},
+{
+  "_id": {
+    "$oid": "683f3ff7fd70e4c68618053b"
+  }
+},
+{
+  "_id": {
+    "$oid": "683f3fd57444bdbdaa00a342"
+  }
+},
+{
+  "_id": {
+    "$oid": "683f40707444bdbdaa00a343"
+  }
+},
+{
+  "_id": {
+    "$oid": "6847e9a0e2200226d1f368e0"
+  },
+  "id": 1,
+  "nombreSuperHeroe": "Spiderman",
+  "nombreReal": "Peter Parker",
+  "nombreSociedad": "Vigilante",
+  "edad": 26,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Radioactiva",
+  "poder": [
+    "Trepar paredes",
+    "Sentido arácnido",
+    "Super fuerza",
+    "Agilidad"
+  ],
+  "habilidadEspecial": "Redes de telaraña",
+  "aliado": [
+    "Ironman"
+  ],
+  "enemigo": [
+    "Duende Verde"
+  ]
+}]
